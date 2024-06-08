@@ -9,13 +9,21 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- **MY TOPIC**
+ 
 
 - 🌱 I’m currently learning **Java,Java OOP**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 📫 How to reach me **sheharashehara2125@gmail.com**
 
 - ⚡ Fun fact **Call me as Sheni**
+  <td width="50%" align="right">
+
+  <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
