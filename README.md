@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java,Java OOP**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
 - 📫 How to reach me **sheharashehara2125@gmail.com**
 
