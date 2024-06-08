@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Shehara Muthumalshi</h1>
+
 <h3 align="center">A passionate IT Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sheharadunuwila&label=Profile%20views&color=0e75b6&style=flat" alt="sheharadunuwila" /> </p>
