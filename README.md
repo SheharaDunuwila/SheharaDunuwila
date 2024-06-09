@@ -3,7 +3,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Shehara Muthumalshi</h1>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE"></a>
+</p>
 <h3 align="center">A passionate IT Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sheharadunuwila&label=Profile%20views&color=0e75b6&style=flat" alt="sheharadunuwila" /> </p>
@@ -19,14 +21,13 @@
 - 📫 How to reach me **sheharashehara2125@gmail.com**
 
 - ⚡ Fun fact **Call me as Sheni**
-  <td width="50%" align="right">
-
-  <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
   
-  </td>
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+
 <!--horizontal divider(gradiant)-->
+ <img align="left" alt="Coding" width="550" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
